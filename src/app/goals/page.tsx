@@ -1,3 +1,3 @@
-import { GoalsPageContent } from "./GoalsPageContent";
+import { GoalsPage } from "../features/goals/pages/GoalsPage";
 
-export default GoalsPageContent;
+export default GoalsPage;
